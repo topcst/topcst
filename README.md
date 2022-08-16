@@ -1,0 +1,4 @@
+- 👋 print("Hi, im Kieran!")
+- 👀 I'm currently looking for a developer job.
+- 🌱 I’m currently learning Javascript & Python.
+- 📫 How to reach me, on github!
